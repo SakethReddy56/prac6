@@ -1,6 +1,6 @@
 public class ques6{
     public static void main(String[] args){
-        System.out.println("prime numbers betweeN 2 and 100:");
+        System.out.println("prime nuMbers betweeN 2 and 100:");
         for (int num=2;num<=100;num++){
             boolean isPrime=true;
             for(int i=2;i<=Math.sqrt(num);i++){
